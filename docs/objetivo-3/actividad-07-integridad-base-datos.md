@@ -51,3 +51,9 @@ Estas vistas entregan contrato vigente, facturado, pagado, costos/gastos, saldo 
 ## Resultado
 
 La integridad quedó centralizada en la base de datos, disminuyendo el riesgo de duplicidad, fórmulas dañadas y diferencias entre fuentes. Los scripts completos permanecen protegidos en el repositorio privado.
+
+## Diagramas relacionados
+
+Las reglas de integridad se complementan con representaciones visuales del modelo y de sus controles:
+
+- [Diagramas del sistema](./diagramas-sistema.md): entidad–relación, estados del periodo, validación financiera, seguridad y auditoría.
