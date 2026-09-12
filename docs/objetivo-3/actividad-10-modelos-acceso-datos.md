@@ -68,3 +68,9 @@ La verificación conjunta obtuvo **11 pruebas aprobadas y 0 fallos**. Los datos 
 ## Resultado
 
 Los módulos de proyectos, contratos, seguimiento, facturación, pagos, costos y gastos ya cuentan con una vía común de acceso a datos. El código permanece en el repositorio privado y esta evidencia pública no expone detalles sensibles.
+
+## Diagramas relacionados
+
+La organización de los modelos y repositorios se complementa con:
+
+- [Diagramas del sistema](./diagramas-sistema.md): arquitectura, secuencia, clases, entidad–relación y seguridad.
