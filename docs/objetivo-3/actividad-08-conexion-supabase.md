@@ -50,3 +50,9 @@ Se creó una prueba que revisa:
 ## Resultado
 
 La conexión quedó implementada de forma reutilizable y verificable. El prototipo público conserva datos ficticios, mientras el entorno conectado solo presenta información después de autenticar al usuario.
+
+## Diagramas relacionados
+
+La conexión del aplicativo con Supabase se documenta visualmente en:
+
+- [Diagramas del sistema](./diagramas-sistema.md): arquitectura, secuencia de registro, clases, seguridad y despliegue.
