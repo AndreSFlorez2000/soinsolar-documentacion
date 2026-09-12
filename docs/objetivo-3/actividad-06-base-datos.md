@@ -46,3 +46,9 @@ La implementación pública no incluye contraseñas, llaves privadas, informaci�
 ## Resultado
 
 La base inicial quedó definida mediante migraciones reproducibles y una semilla de desarrollo ficticia. Esta estructura sirve como fundamento para las restricciones de integridad de la Actividad 7.
+
+## Diagramas relacionados
+
+La estructura, las relaciones y los controles de la base de datos se representan en el documento consolidado:
+
+- [Diagramas del sistema](./diagramas-sistema.md): flujo general, entidad–relación, estados del periodo y validación de facturas y pagos.
