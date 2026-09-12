@@ -24,3 +24,7 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Conexión segura preparada.
 - Modelos y repositorios implementados.
 - 11 pruebas automatizadas aprobadas y 0 fallos.
+
+## Diagramas del sistema
+
+- [Arquitectura, casos de uso, flujos, clases, entidad–relación, seguridad y despliegue](docs/objetivo-3/diagramas-sistema.md)
