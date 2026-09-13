@@ -5,7 +5,7 @@
 **Producto:** CRUD de proyectos  
 **Formato:** enlace al repositorio  
 **Periodo previsto en el PA:** 15 al 21 de octubre de 2026  
-**Versión implementada:** 0.3.0
+**Versión implementada:** 0.3.1
 
 ## 1. Objetivo
 
@@ -107,4 +107,3 @@ La Actividad 11 queda implementada como un CRUD funcional en modo demostrativo y
 - Código principal: `src/assets/js/app.js`
 - Acceso a datos: `src/assets/js/services/application-data.js`
 - Pruebas: `tests/project-cost-modules.test.mjs`
-
