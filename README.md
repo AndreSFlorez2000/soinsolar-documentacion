@@ -15,7 +15,9 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 7. [Actividad 7 — Integridad de la base de datos](docs/objetivo-3/actividad-07-integridad-base-datos.md)
 8. [Actividad 8 — Conexión con Supabase](docs/objetivo-3/actividad-08-conexion-supabase.md)
 9. [Actividad 10 — Modelos y acceso a datos](docs/objetivo-3/actividad-10-modelos-acceso-datos.md)
-10. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
+10. [Actividad 11 — CRUD de proyectos](docs/objetivo-3/actividad-11-crud-proyectos.md)
+11. [Actividad 12 — Módulo de costos y gastos](docs/objetivo-3/actividad-12-modulo-costos.md)
+12. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
 
 ## Verificación reciente
 
@@ -23,7 +25,8 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Integridad financiera, auditoría y RLS implementadas.
 - Conexión segura preparada.
 - Modelos y repositorios implementados.
-- 11 pruebas automatizadas aprobadas y 0 fallos.
+- CRUD de proyectos y módulo de costos y gastos implementados en la demostración.
+- 18 pruebas automatizadas aprobadas y 0 fallos.
 
 ## Diagramas del sistema
 
