@@ -103,6 +103,10 @@ La suma mostrada utiliza únicamente los registros que cumplen los filtros. La e
 | Registrar en un periodo cerrado | La operación es rechazada | Aprobado |
 | Usar una fecha de otro mes | La operación es rechazada | Aprobado |
 
+### Verificación integrada en la aplicación web
+
+El 13 de septiembre de 2026 se registró un costo ficticio de $125.000 para el proyecto de prueba `DEMO-QA-011` y el periodo abierto de septiembre de 2026. La aplicación mostró “Movimiento registrado correctamente”, aumentó el número de movimientos de 4 a 5 y actualizó el total de costos de $3.483.000.000 a $3.483.125.000 y el total consultado de $3.846.000.000 a $3.846.125.000. La prueba confirmó la integración del formulario, las reglas del periodo, el almacenamiento, la consulta y el recálculo de indicadores.
+
 ## 9. Seguridad e integridad
 
 - Las tablas de proyectos, periodos y movimientos se relacionan mediante UUID.
