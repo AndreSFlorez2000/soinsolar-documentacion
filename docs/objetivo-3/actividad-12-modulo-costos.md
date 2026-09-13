@@ -5,7 +5,7 @@
 **Producto:** módulo de costos  
 **Formato:** enlace al repositorio  
 **Periodo previsto en el PA:** 19 al 23 de octubre de 2026  
-**Versión implementada:** 0.3.0
+**Versión implementada:** 0.3.1
 
 ## 1. Objetivo
 
@@ -120,4 +120,3 @@ La Actividad 12 queda implementada con registro, consulta, filtros, totales y ex
 - Código principal: `src/assets/js/app.js`
 - Repositorio financiero: `src/assets/js/data/repositories.js`
 - Pruebas: `tests/project-cost-modules.test.mjs`
-
