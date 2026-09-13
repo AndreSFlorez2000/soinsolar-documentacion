@@ -90,6 +90,10 @@ Los valores contractuales, facturados, pagados y ejecutados no se escriben direc
 | Finalizar antes de iniciar | La operación es rechazada | Aprobado |
 | Eliminar un proyecto con movimientos | La operación es rechazada | Aprobado |
 
+### Verificación integrada en la aplicación web
+
+El 13 de septiembre de 2026 se abrió la demostración publicada, se ingresó al módulo Proyectos y se creó el registro ficticio `DEMO-QA-011`. La aplicación cerró el formulario, mostró el mensaje “Proyecto creado correctamente” y actualizó el listado de 3 a 4 proyectos sin recargar la página. La prueba confirmó la integración entre formulario, validaciones, almacenamiento demostrativo, consulta y actualización visual.
+
 ## 8. Seguridad
 
 - La demostración no utiliza información empresarial real.
