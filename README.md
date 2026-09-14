@@ -23,7 +23,9 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 15. [Actividad 16 — Búsqueda y filtrado](docs/objetivo-3/actividad-16-busqueda-filtros.md)
 16. [Actividad 17 — Filtros avanzados](docs/objetivo-3/actividad-17-filtros-avanzados.md)
 17. [Actividad 18 — Indicadores generales](docs/objetivo-3/actividad-18-indicadores-generales.md)
-18. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
+18. [Actividad 19 — Indicadores por proyecto](docs/objetivo-3/actividad-19-indicadores-proyecto.md)
+19. [Actividad 20 — Versión integrada](docs/objetivo-3/actividad-20-version-integrada.md)
+20. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
 
 ## Verificación reciente
 
@@ -36,7 +38,9 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Búsqueda global y filtros combinables con criterios activos visibles implementados.
 - Filtros avanzados por servicio y rango de avance implementados.
 - Dashboard dinámico con estadísticas, alertas y comportamiento mensual implementado.
-- 49 pruebas automatizadas aprobadas y 0 fallos.
+- Ficha por proyecto con indicadores, gráfico mensual e historial reciente implementada.
+- Versión 1.0.0 integrada con navegación funcional, actualización y recuperación de rutas.
+- 59 pruebas automatizadas aprobadas y 0 fallos.
 
 ## Diagramas del sistema
 
