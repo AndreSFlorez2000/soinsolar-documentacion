@@ -21,7 +21,9 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 13. [Actividad 14 — Trazabilidad histórica](docs/objetivo-3/actividad-14-trazabilidad-historica.md)
 14. [Actividad 15 — Interfaces principales de proyectos](docs/objetivo-3/actividad-15-interfaces-proyectos.md)
 15. [Actividad 16 — Búsqueda y filtrado](docs/objetivo-3/actividad-16-busqueda-filtros.md)
-16. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
+16. [Actividad 17 — Filtros avanzados](docs/objetivo-3/actividad-17-filtros-avanzados.md)
+17. [Actividad 18 — Indicadores generales](docs/objetivo-3/actividad-18-indicadores-generales.md)
+18. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
 
 ## Verificación reciente
 
@@ -32,7 +34,9 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - CRUD de proyectos, costos y gastos, periodos, seguimiento mensual e historial implementados.
 - Interfaces de proyectos con resumen por estado, ficha integral y navegación contextual implementadas.
 - Búsqueda global y filtros combinables con criterios activos visibles implementados.
-- 38 pruebas automatizadas aprobadas y 0 fallos.
+- Filtros avanzados por servicio y rango de avance implementados.
+- Dashboard dinámico con estadísticas, alertas y comportamiento mensual implementado.
+- 49 pruebas automatizadas aprobadas y 0 fallos.
 
 ## Diagramas del sistema
 
