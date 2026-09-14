@@ -81,7 +81,7 @@ Además se conservaron los casos de modelos, seguridad, periodos, costos, seguim
 
 El criterio técnico de aprobación es: suite automática sin fallos, construcción pública completa, ausencia de pantallas de relleno y coincidencia exacta entre fórmulas esperadas y obtenidas.
 
-La evidencia reproducible se encuentra en el repositorio mediante el comando **npm test** y en la ejecución de GitHub Actions asociada con la versión 1.1.0.
+La evidencia reproducible se encuentra en el repositorio mediante el comando **npm test**. La ejecución automática de GitHub Actions del 14 de septiembre de 2026 aprobó **68 de 68 casos, con 0 fallos**, en el commit **da324384be333d53972a7ddb67ad4a183d7b2530**.
 
 ## 7. Conclusión
 
