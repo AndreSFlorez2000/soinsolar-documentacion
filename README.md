@@ -1,4 +1,4 @@
-# Documentación pública — Objetivo 3
+# Documentación pública — Sistema de control de proyectos
 
 Copia pública de la documentación técnica del sistema de control de costos, gastos y ejecución de proyectos.
 
@@ -26,6 +26,16 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 18. [Actividad 19 — Indicadores por proyecto](docs/objetivo-3/actividad-19-indicadores-proyecto.md)
 19. [Actividad 20 — Versión integrada](docs/objetivo-3/actividad-20-version-integrada.md)
 20. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
+21. [Cierre técnico previo al Objetivo 4](docs/objetivo-3/cierre-previo-objetivo-4.md)
+22. [Actividad técnica complementaria 21 — Gestión contractual](docs/objetivo-3/actividad-21-gestion-contractual.md)
+23. [Actividad técnica complementaria 22 — Facturación y pagos](docs/objetivo-3/actividad-22-facturacion-pagos.md)
+24. [Actividad técnica complementaria 23 — Reportes gerenciales](docs/objetivo-3/actividad-23-reportes-gerenciales.md)
+25. [Actividad técnica complementaria 24 — Administración y puesta a punto](docs/objetivo-3/actividad-24-administracion-puesta-punto.md)
+
+## Preparación para el Objetivo 4
+
+- [Guía paso a paso de prueba de uso](docs/objetivo-4/guia-prueba-uso.md)
+- [Prueba técnica ejecutada y documentada](docs/objetivo-4/prueba-tecnica-ejecutada.md)
 
 ## Verificación reciente
 
@@ -39,8 +49,8 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Filtros avanzados por servicio y rango de avance implementados.
 - Dashboard dinámico con estadísticas, alertas y comportamiento mensual implementado.
 - Ficha por proyecto con indicadores, gráfico mensual e historial reciente implementada.
-- Versión 1.0.0 integrada con navegación funcional, actualización y recuperación de rutas.
-- 59 pruebas automatizadas aprobadas y 0 fallos.
+- Versión 1.1.0 integrada con gestión contractual, facturación, pagos, reportes y perfiles.
+- 68 pruebas automatizadas preparadas para ejecución continua y 0 pantallas de relleno.
 
 ## Diagramas del sistema
 
