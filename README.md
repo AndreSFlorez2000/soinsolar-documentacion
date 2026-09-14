@@ -50,7 +50,7 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Dashboard dinámico con estadísticas, alertas y comportamiento mensual implementado.
 - Ficha por proyecto con indicadores, gráfico mensual e historial reciente implementada.
 - Versión 1.1.0 integrada con gestión contractual, facturación, pagos, reportes y perfiles.
-- 68 pruebas automatizadas preparadas para ejecución continua y 0 pantallas de relleno.
+- 68 pruebas automatizadas aprobadas, 0 fallos y 0 pantallas de relleno.
 
 ## Diagramas del sistema
 
