@@ -19,7 +19,8 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 11. [Actividad 12 — Módulo de costos y gastos](docs/objetivo-3/actividad-12-modulo-costos.md)
 12. [Actividad 13 — Periodos y seguimiento mensual](docs/objetivo-3/actividad-13-periodos-seguimiento-mensual.md)
 13. [Actividad 14 — Trazabilidad histórica](docs/objetivo-3/actividad-14-trazabilidad-historica.md)
-14. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
+14. [Actividad 15 — Interfaces principales de proyectos](docs/objetivo-3/actividad-15-interfaces-proyectos.md)
+15. [Verificación inicial](docs/objetivo-3/verificacion-inicial.md)
 
 ## Verificación reciente
 
@@ -28,7 +29,8 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 - Conexión segura preparada.
 - Modelos y repositorios implementados.
 - CRUD de proyectos, costos y gastos, periodos, seguimiento mensual e historial implementados.
-- 27 pruebas automatizadas aprobadas y 0 fallos.
+- Interfaces de proyectos con resumen por estado, ficha integral y navegación contextual implementadas.
+- 32 pruebas automatizadas aprobadas y 0 fallos.
 
 ## Diagramas del sistema
 
