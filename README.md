@@ -36,6 +36,7 @@ El repositorio principal y el código permanecen privados. Aquí se publican ún
 
 - [Guía paso a paso de prueba de uso](docs/objetivo-4/guia-prueba-uso.md)
 - [Prueba técnica ejecutada y documentada](docs/objetivo-4/prueba-tecnica-ejecutada.md)
+- [Caso de prueba de uso 002 — facturas y pagos parciales](docs/objetivo-4/prueba-uso-caso-002.md)
 
 ## Verificación reciente
 
